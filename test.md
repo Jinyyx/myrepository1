@@ -22,3 +22,34 @@
 下面是分隔线
 *****
 
+
+无序列表
+* RPG
+  * GTA
+   * GTA圣地安列斯
+   * GTA罪恶都市
+* ABC
+* DEF
+
+有序列表
+1. 物理
+   1. 粒子物理
+   2. 原子核物理
+2. 计算机
+
+##代码插入
+```c
+	#include<stdio.h>
+
+	int main()
+	{
+		printf("hello"\n);
+		return 0;
+	}
+```
+```java
+```
+```python
+```
+
+
