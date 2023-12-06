@@ -58,4 +58,4 @@
 
 ##图片插入
 
-[截图](C://Users//JINYX//Desktop//屏幕截图 2023-12-06 145037.png "图片")
+![截图](C://Users//JINYX//Desktop//01.jpg "图片")
